@@ -10,6 +10,12 @@
 * ProPublica https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing 
 * [Todo]
 
+## Demo's /tools ##
+* https://github.com/google/ml-fairness-gym
+
+## User experiments ##
+* https://papers.ssrn.com/sol3/Papers.cfm?abstract_id=3503603
+
 ## NLP papers ##
 
 ### Embeddings
@@ -65,7 +71,7 @@ https://link.springer.com/chapter/10.1007/978-3-030-28954-6_10
 ## Toolkits
 * AllenNLP Interpret  https://allennlp.org/interpret
 * [todo]
-
+* Captum https://captum.ai/
 
 # Related courses
 * Interpretability and Explainability in Machine Learning, COMPSCI 282BR, Harvard University: https://interpretable-ml-class.github.io/ (2019)
