@@ -82,3 +82,4 @@ https://link.springer.com/chapter/10.1007/978-3-030-28954-6_10
 * Human-centered Machine Learning, University of Colorado Boulder. https://chenhaot.com/courses/hcml/home.html (2018)
 * LING 575 — Ethics in NLP: Including Society in Discourse & Design, University of Washington https://ryan.georgi.cc/courses/575-ethics-win-19/ (2019)
 * Computational Ethics for NLP, CMU: http://demo.clab.cs.cmu.edu/ethical_nlp/ (2019)
+* https://github.com/stanford-policylab/law-order-algo
