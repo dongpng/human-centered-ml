@@ -57,7 +57,11 @@ Ribeiro et al. KDD 2016 https://www.kdd.org/kdd2016/papers/files/rfp0573-ribeiro
 * Understanding Black-box Predictions via Influence Functions, Koh and Liang, ICML 2017 http://proceedings.mlr.press/v70/koh17a/koh17a.pdf
 * Layer-Wise Relevance Propagation: An Overview, Montavon et al. Explainable AI: Interpreting, Explaining and Visualizing Deep Learning  2019
 https://link.springer.com/chapter/10.1007/978-3-030-28954-6_10
+* Beyond saliency: understanding convolutional neural networks from saliency prediction on layer-wise relevance propagation, Heyi Li, Yunke Tian, Klaus Mueller, and Xin Chen. Image and Vision Computing 83 (2019). https://www.sciencedirect.com/science/article/pii/S0262885619300149
 * [Todo] Gradient based methods
+
+## Explainability and Bias in Multimodal Affective Computing 
+* Escalante, Hugo Jair, et al. "Modeling, Recognizing, and Explaining Apparent Personality from Videos." IEEE Transactions on Affective Computing (2020), https://ieeexplore.ieee.org/abstract/document/8999746
 
 ## Evaluation
 
@@ -67,6 +71,7 @@ https://link.springer.com/chapter/10.1007/978-3-030-28954-6_10
 ## Visualization
 
 * [todo]
+
 
 ## Toolkits
 * AllenNLP Interpret  https://allennlp.org/interpret
