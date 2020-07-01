@@ -66,6 +66,7 @@ https://link.springer.com/chapter/10.1007/978-3-030-28954-6_10
 ## Evaluation
 
 * Evaluating the visualization of what a deep neural network has learned, Samek et al.  IEEE Transactions on Neural Networks and Learning Systems 2017 https://ieeexplore.ieee.org/document/7552539 
+* Towards Faithfully Interpretable NLP Systems:How Should We Define and Evaluate Faithfulness? https://www.aclweb.org/anthology/2020.acl-main.386.pdf
 * [Todo] User experiments, trust..
 
 ## Visualization
@@ -77,6 +78,7 @@ https://link.springer.com/chapter/10.1007/978-3-030-28954-6_10
 * AllenNLP Interpret  https://allennlp.org/interpret
 * [todo]
 * Captum https://captum.ai/
+* Responsible AI Tensorflow https://www.tensorflow.org/resources/responsible-ai
 
 # Related courses
 * Interpretability and Explainability in Machine Learning, COMPSCI 282BR, Harvard University: https://interpretable-ml-class.github.io/ (2019)
