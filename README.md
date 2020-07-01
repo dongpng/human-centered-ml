@@ -5,7 +5,7 @@
 
 * Online book: Fairness and machine learning, Limitations and Opportunities, Solon Barocas, Moritz Hardt, Arvind Narayanan https://fairmlbook.org/
 
-## COMPAS case study##
+## COMPAS case study ##
 
 * ProPublica https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing 
 * [Todo]
@@ -48,6 +48,11 @@
 * Guidotti et al. A Survey of Methods for Explaining Black Box Models, ACM Computing Surveys (CSUR) 2019 https://dl.acm.org/citation.cfm?id=3236009
 * Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead, Rudin, Nature Machine Intelligence 2019 https://www.nature.com/articles/s42256-019-0048-x
 * Towards A Rigorous Science of Interpretable Machine Learning,  Doshi-Velez and Kim 2017, https://arxiv.org/abs/1702.08608
+
+## Counterfactuals/contrastsets
+* Learning the Difference that Makes a Difference with Counterfactually-Augmented Data https://arxiv.org/abs/1909.12434
+* Evaluating NLP Models via Contrast Sets https://arxiv.org/pdf/2004.02709.pdf
+
 
 ## Local explanations
 
