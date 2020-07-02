@@ -26,6 +26,7 @@
 * The Risk of Racial Bias in Hate Speech Detection, Sap et al., ACL 2019 https://www.aclweb.org/anthology/P19-1163/
 * Google response gender bias in Google Translate https://www.blog.google/products/translate/reducing-gender-bias-google-translate/
 * Co-reference resolution: Gender Bias in Coreference Resolution, Rudinger et al. NAACL 2018 https://www.aclweb.org/anthology/N18-2002/  and Gender Bias in Coreference Resolution: Evaluation and Debiasing Methods Zhao et al. NAACL 2018 https://www.aclweb.org/anthology/N18-2003/ 
+* Language (Technology) is Power: A Critical Survey of "Bias" in NLP, Blodgett et al. ACL 2020 https://www.aclweb.org/anthology/2020.acl-main.485.pdf 
 * [todo]
 
 ## Computer vision
@@ -48,6 +49,7 @@
 * Guidotti et al. A Survey of Methods for Explaining Black Box Models, ACM Computing Surveys (CSUR) 2019 https://dl.acm.org/citation.cfm?id=3236009
 * Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead, Rudin, Nature Machine Intelligence 2019 https://www.nature.com/articles/s42256-019-0048-x
 * Towards A Rigorous Science of Interpretable Machine Learning,  Doshi-Velez and Kim 2017, https://arxiv.org/abs/1702.08608
+* Explanation in Artificial Intelligence: Insights from the Social Sciences, Miller, 2019, https://arxiv.org/abs/1706.07269
 
 ## Counterfactuals/contrastsets
 * Learning the Difference that Makes a Difference with Counterfactually-Augmented Data https://arxiv.org/abs/1909.12434
@@ -59,10 +61,12 @@
 * “Why Should I Trust You?” Explaining the Predictions of Any Classifier, 
 Ribeiro et al. KDD 2016 https://www.kdd.org/kdd2016/papers/files/rfp0573-ribeiroA.pdf
 * A Unified Approach to Interpreting Model Predictions, Lundberg and Lee, NeurIPS 2017 http://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions.pdf
+* Fooling LIME and SHAP: Adversarial Attacks on Post hoc Explanation Methods, Slack et al., AIES'20 https://arxiv.org/abs/1911.02508
 * Understanding Black-box Predictions via Influence Functions, Koh and Liang, ICML 2017 http://proceedings.mlr.press/v70/koh17a/koh17a.pdf
 * Layer-Wise Relevance Propagation: An Overview, Montavon et al. Explainable AI: Interpreting, Explaining and Visualizing Deep Learning  2019
 https://link.springer.com/chapter/10.1007/978-3-030-28954-6_10
 * Beyond saliency: understanding convolutional neural networks from saliency prediction on layer-wise relevance propagation, Heyi Li, Yunke Tian, Klaus Mueller, and Xin Chen. Image and Vision Computing 83 (2019). https://www.sciencedirect.com/science/article/pii/S0262885619300149
+* Counterfactual Explanations without Opening the Black Box: Automated Decisions and the GDPR, Wachter et al. 2018 https://arxiv.org/abs/1711.00399
 * [Todo] Gradient based methods
 
 ## Explainability and Bias in Multimodal Affective Computing 
