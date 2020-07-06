@@ -21,12 +21,20 @@
 ### Embeddings
 * Semantics derived automatically from language corpora contain human-like biases, Caliskan et al. Science 2017 https://science.sciencemag.org/content/356/6334/183
 * Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings, Bolukbasi et al. NeurIPS 2016 https://papers.nips.cc/paper/6228-man-is-to-computer-programmer-as-woman-is-to-homemaker-debiasing-word-embeddings
+* Word Embeddings Quantify 100 Years of Gender and Ethnic Stereotypes, Garg et al. PNAS 2017 https://arxiv.org/pdf/1711.08412.pdf
+* Learning Gender-Neutral Word Embeddings, Zhao et al. EMNLP 2018 https://arxiv.org/pdf/1809.01496
+* Lipstick on a Pig: Debiasing Methods Cover up Systematic Gender Biases in Word Embeddings But do not Remove Them, Gonen and Goldberg. NAACL-HLT 2019 https://arxiv.org/pdf/1809.01496
+* Understanding the Origins of Bias in Word Embeddings, Brunet et al. ICML 2019, https://arxiv.org/pdf/1810.03611.pdf
+* Assessing Social and Intersectional Biases in Contextualized Word Representations, Tan and Celis, NeurIPS 2019. https://papers.nips.cc/paper/9479-assessing-social-and-intersectional-biases-in-contextualized-word-representations.pdf
 
 ### Other
 * The Risk of Racial Bias in Hate Speech Detection, Sap et al., ACL 2019 https://www.aclweb.org/anthology/P19-1163/
 * Google response gender bias in Google Translate https://www.blog.google/products/translate/reducing-gender-bias-google-translate/
 * Co-reference resolution: Gender Bias in Coreference Resolution, Rudinger et al. NAACL 2018 https://www.aclweb.org/anthology/N18-2002/  and Gender Bias in Coreference Resolution: Evaluation and Debiasing Methods Zhao et al. NAACL 2018 https://www.aclweb.org/anthology/N18-2003/ 
 * Language (Technology) is Power: A Critical Survey of "Bias" in NLP, Blodgett et al. ACL 2020 https://www.aclweb.org/anthology/2020.acl-main.485.pdf 
+* What’s in a Name? Reducing Bias in Bios without Access to Protected Attributes, Romanov et al. NAACL-HLT 2019, https://arxiv.org/pdf/1904.05233.pdf
+* Mitigating Gender Bias in Natural Language Processing: Literature Review, Sun et al. ACL 2019, https://www.aclweb.org/anthology/P19-1159/
+* Reducing Gender Bias in Abusive Language Detection, Park et al. EMNLP 2018, https://www.aclweb.org/anthology/D18-1302
 * [todo]
 
 ## Computer vision
@@ -62,7 +70,9 @@
 Ribeiro et al. KDD 2016 https://www.kdd.org/kdd2016/papers/files/rfp0573-ribeiroA.pdf
 * A Unified Approach to Interpreting Model Predictions, Lundberg and Lee, NeurIPS 2017 http://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions.pdf
 * Fooling LIME and SHAP: Adversarial Attacks on Post hoc Explanation Methods, Slack et al., AIES'20 https://arxiv.org/abs/1911.02508
+* A Textual Adversial Attack Paper collection https://github.com/thunlp/TAADpapers
 * Understanding Black-box Predictions via Influence Functions, Koh and Liang, ICML 2017 http://proceedings.mlr.press/v70/koh17a/koh17a.pdf
+* Investigating Robustness and Interpretability of Link Prediction via Adversarial Modifications, Pezeshkpour et al. NAACL-HLT 2019 https://arxiv.org/pdf/1905.00563
 * Layer-Wise Relevance Propagation: An Overview, Montavon et al. Explainable AI: Interpreting, Explaining and Visualizing Deep Learning  2019
 https://link.springer.com/chapter/10.1007/978-3-030-28954-6_10
 * Beyond saliency: understanding convolutional neural networks from saliency prediction on layer-wise relevance propagation, Heyi Li, Yunke Tian, Klaus Mueller, and Xin Chen. Image and Vision Computing 83 (2019). https://www.sciencedirect.com/science/article/pii/S0262885619300149
