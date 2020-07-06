@@ -67,10 +67,11 @@ Ribeiro et al. KDD 2016 https://www.kdd.org/kdd2016/papers/files/rfp0573-ribeiro
 https://link.springer.com/chapter/10.1007/978-3-030-28954-6_10
 * Beyond saliency: understanding convolutional neural networks from saliency prediction on layer-wise relevance propagation, Heyi Li, Yunke Tian, Klaus Mueller, and Xin Chen. Image and Vision Computing 83 (2019). https://www.sciencedirect.com/science/article/pii/S0262885619300149
 * Counterfactual Explanations without Opening the Black Box: Automated Decisions and the GDPR, Wachter et al. 2018 https://arxiv.org/abs/1711.00399
+* Gradcam: Visual explanations from deep networks via gradient-based localization, Selvaraju et al. ICCV 2017. https://openaccess.thecvf.com/content_ICCV_2017/papers/Selvaraju_Grad-CAM_Visual_Explanations_ICCV_2017_paper.pdf
 * [Todo] Gradient based methods
 
 ## Explainability and Bias in Multimodal Affective Computing 
-* Escalante, Hugo Jair, et al. "Modeling, Recognizing, and Explaining Apparent Personality from Videos." IEEE Transactions on Affective Computing (2020), https://ieeexplore.ieee.org/abstract/document/8999746
+* Escalante, Hugo Jair, et al. "Modeling, Recognizing, and Explaining Apparent Personality from Videos." IEEE Transactions on Affective Computing (2020), https://ieeexplore.ieee.org/abstract/document/8999746 also available from https://arxiv.org/abs/1802.00745
 
 ## Evaluation
 
