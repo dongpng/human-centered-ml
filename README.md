@@ -35,7 +35,7 @@
 * What’s in a Name? Reducing Bias in Bios without Access to Protected Attributes, Romanov et al. NAACL-HLT 2019, https://arxiv.org/pdf/1904.05233.pdf
 * Mitigating Gender Bias in Natural Language Processing: Literature Review, Sun et al. ACL 2019, https://www.aclweb.org/anthology/P19-1159/
 * Reducing Gender Bias in Abusive Language Detection, Park et al. EMNLP 2018, https://www.aclweb.org/anthology/D18-1302
-* Fair Bayesian Optimization, Perrone Et al., 2020 ICML Workshop on Automated Machine Learning, https://assets.amazon.science/f6/1c/bc38ad454d029ba747529ca03ee6/fair-bayesian-optimization.pdf
+* Fair Bayesian Optimization, Perrone et al., 2020 ICML Workshop on Automated Machine Learning, https://assets.amazon.science/f6/1c/bc38ad454d029ba747529ca03ee6/fair-bayesian-optimization.pdf
 * [todo]
 
 ## Computer vision
