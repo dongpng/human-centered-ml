@@ -35,6 +35,7 @@
 * What’s in a Name? Reducing Bias in Bios without Access to Protected Attributes, Romanov et al. NAACL-HLT 2019, https://arxiv.org/pdf/1904.05233.pdf
 * Mitigating Gender Bias in Natural Language Processing: Literature Review, Sun et al. ACL 2019, https://www.aclweb.org/anthology/P19-1159/
 * Reducing Gender Bias in Abusive Language Detection, Park et al. EMNLP 2018, https://www.aclweb.org/anthology/D18-1302
+* Fair Bayesian Optimization, Perrone Et al., 2020 ICML Workshop on Automated Machine Learning, https://assets.amazon.science/f6/1c/bc38ad454d029ba747529ca03ee6/fair-bayesian-optimization.pdf
 * [todo]
 
 ## Computer vision
@@ -81,7 +82,8 @@ https://link.springer.com/chapter/10.1007/978-3-030-28954-6_10
 * [Todo] Gradient based methods
 
 ## Explainability and Bias in Multimodal Affective Computing 
-* Escalante, Hugo Jair, et al. "Modeling, Recognizing, and Explaining Apparent Personality from Videos." IEEE Transactions on Affective Computing (2020), https://ieeexplore.ieee.org/abstract/document/8999746 also available from https://arxiv.org/abs/1802.00745
+* "Modeling, Recognizing, and Explaining Apparent Personality from Videos."  Escalante et al., IEEE Transactions on Affective Computing (2020), https://ieeexplore.ieee.org/abstract/document/8999746 also available from https://arxiv.org/abs/1802.00745
+* Investigating Bias and Fairness in Facial Expression Recognition, Xu et al., ECCV'20 Workshop on Fair Face Recognition and Analysis. https://arxiv.org/abs/2007.10075
 
 ## Evaluation
 
