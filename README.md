@@ -8,7 +8,7 @@
 ## COMPAS case study ##
 
 * ProPublica https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing 
-* [Todo]
+* https://allendowney.github.io/RecidivismCaseStudy/
 
 ## Demo's /tools ##
 * https://github.com/google/ml-fairness-gym
@@ -89,6 +89,11 @@ https://link.springer.com/chapter/10.1007/978-3-030-28954-6_10
 * Towards Faithfully Interpretable NLP Systems:How Should We Define and Evaluate Faithfulness? https://www.aclweb.org/anthology/2020.acl-main.386.pdf
 * [Todo] User experiments, trust..
 
+## Datasets
+
+* https://www.excavating.ai/
+* Possible assignment: Let students read and analyze the datasets themselves.
+
 ## Visualization
 
 * [todo]
@@ -111,3 +116,7 @@ https://link.springer.com/chapter/10.1007/978-3-030-28954-6_10
 * Computational Ethics for NLP, CMU: http://demo.clab.cs.cmu.edu/ethical_nlp/ (2019)
 * https://github.com/stanford-policylab/law-order-algo
 * Seminar on Ethical and Social Issues in Natural Language Processing  (Stanford 2020) https://docs.google.com/document/d/1zujyrSTiQ-HKQ66oPDiswihe55jUY7pwHpQPwMHTBFI/edit#
+
+
+# Tutorials
+* Bias and Fairness in Natural Language Processing EMNLP 2019 http://web.cs.ucla.edu/~kwchang/talks/emnlp19-fairnlp/ 
