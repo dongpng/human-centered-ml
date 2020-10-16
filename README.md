@@ -70,6 +70,7 @@
 * “Why Should I Trust You?” Explaining the Predictions of Any Classifier, 
 Ribeiro et al. KDD 2016 https://www.kdd.org/kdd2016/papers/files/rfp0573-ribeiroA.pdf
 * A Unified Approach to Interpreting Model Predictions, Lundberg and Lee, NeurIPS 2017 http://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions.pdf
+* From local explanations to global understanding with explainable AI for trees. Lundberg, S.M. et al., Nature Machine Intelligence 2, 56–67 (2020). https://doi-org.proxy.library.uu.nl/10.1038/s42256-019-0138-9 , available from https://arxiv.org/abs/1905.04610 
 * Fooling LIME and SHAP: Adversarial Attacks on Post hoc Explanation Methods, Slack et al., AIES'20 https://arxiv.org/abs/1911.02508
 * A Textual Adversial Attack Paper collection https://github.com/thunlp/TAADpapers
 * Understanding Black-box Predictions via Influence Functions, Koh and Liang, ICML 2017 http://proceedings.mlr.press/v70/koh17a/koh17a.pdf
