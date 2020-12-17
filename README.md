@@ -16,6 +16,9 @@
 ## User experiments ##
 * https://papers.ssrn.com/sol3/Papers.cfm?abstract_id=3503603
 
+## Critiques/limitations on current fairness work##
+* https://arxiv.org/pdf/2012.03659.pdf
+* 
 ## NLP papers ##
 
 ### Embeddings
