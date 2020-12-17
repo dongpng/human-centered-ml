@@ -16,9 +16,12 @@
 ## User experiments ##
 * https://papers.ssrn.com/sol3/Papers.cfm?abstract_id=3503603
 
-## Critiques/limitations on current fairness work##
-* https://arxiv.org/pdf/2012.03659.pdf
-* 
+## Critiques/limitations on current fairness work ##
+* Non-portability of Algorithmic Fairness in India https://arxiv.org/pdf/2012.03659.pdf
+* Where fairness fails: data, algorithms, and the limits of antidiscrimination discourse https://www.tandfonline.com/doi/abs/10.1080/1369118X.2019.1573912?journalCode=rics20
+* Fairness and Abstraction in Sociotechnical Systems https://doi.org/10.1145/3287560.3287598
+* Improving Fairness in Machine Learning Systems: What Do Industry Practitioners Need? https://dl.acm.org/doi/abs/10.1145/3290605.3300830
+
 ## NLP papers ##
 
 ### Embeddings
