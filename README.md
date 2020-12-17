@@ -1,26 +1,35 @@
 
 # Fairness
 
-## Books ##
+## Books 
 
 * Online book: Fairness and machine learning, Limitations and Opportunities, Solon Barocas, Moritz Hardt, Arvind Narayanan https://fairmlbook.org/
 
-## COMPAS case study ##
+## Overviews
+* Algorithmic Fairness: Choices, Assumptions, and Definitions https://www.annualreviews.org/doi/abs/10.1146/annurev-statistics-042720-125902?journalCode=statistics
+* A Survey on Bias and Fairness in Machine Learning https://arxiv.org/pdf/1908.09635.pdf
+
+## COMPAS case study
 
 * ProPublica https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing 
 * https://allendowney.github.io/RecidivismCaseStudy/
 
-## Demo's /tools ##
+## Demo's /tools
 * https://github.com/google/ml-fairness-gym
 
-## User experiments ##
+## User experiments
 * https://papers.ssrn.com/sol3/Papers.cfm?abstract_id=3503603
 
-## Critiques/limitations on current fairness work ##
+## Critiques/limitations on current fairness work 
 * Non-portability of Algorithmic Fairness in India https://arxiv.org/pdf/2012.03659.pdf
 * Where fairness fails: data, algorithms, and the limits of antidiscrimination discourse https://www.tandfonline.com/doi/abs/10.1080/1369118X.2019.1573912?journalCode=rics20
 * Fairness and Abstraction in Sociotechnical Systems https://doi.org/10.1145/3287560.3287598
 * Improving Fairness in Machine Learning Systems: What Do Industry Practitioners Need? https://dl.acm.org/doi/abs/10.1145/3290605.3300830
+
+## Todo: papers bridging fairness & explainability
+
+## Todo: critiques on datasets (imagenet, ....) 
+
 
 ## NLP papers ##
 
