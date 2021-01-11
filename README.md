@@ -16,6 +16,7 @@
 
 ## Demo's /tools
 * https://github.com/google/ml-fairness-gym
+* https://fairlearn.github.io
 
 ## User experiments
 * https://papers.ssrn.com/sol3/Papers.cfm?abstract_id=3503603
