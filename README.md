@@ -136,6 +136,9 @@ https://link.springer.com/chapter/10.1007/978-3-030-28954-6_10
 * https://github.com/stanford-policylab/law-order-algo
 * Seminar on Ethical and Social Issues in Natural Language Processing  (Stanford 2020) https://docs.google.com/document/d/1zujyrSTiQ-HKQ66oPDiswihe55jUY7pwHpQPwMHTBFI/edit#
 
+# Other
+* https://pair.withgoogle.com/
+
 
 # Tutorials
 * Bias and Fairness in Natural Language Processing EMNLP 2019 http://web.cs.ucla.edu/~kwchang/talks/emnlp19-fairnlp/ 
