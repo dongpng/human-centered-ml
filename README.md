@@ -17,7 +17,7 @@
 * Datasets from “Patterns, Predictions, and Actions“ by Hardt and Recht, 2021 [[url]](https://mlstory.org/data.html)
 * Selection bias: No Classification without Representation: Assessing Geodiversity Issues in Open Data Sets for the Developing World, Shankar et al, NIPS 2017 workshop: Machine Learning for the Developing World [[url]](https://research.google/pubs/pub46553/)
 * Annotator bias: The Risk of Racial Bias in Hate Speech Detection, Sap et al., ACL 2019 [[url]](https://www.aclweb.org/anthology/P19-1163/)
-* Problems with labels: Dissecting racial bias in an algorithm used to manage the health of populations, Obermeyer et al., Science 2019 [[url]](https://science.sciencemag.org/content/366/6464/447)
+* Problematic labels: Dissecting racial bias in an algorithm used to manage the health of populations, Obermeyer et al., Science 2019 [[url]](https://science.sciencemag.org/content/366/6464/447)
 
 **Ethics**
 
@@ -32,6 +32,16 @@
 * Data Statements for Natural Language Processing: Toward Mitigating System Bias and Enabling Better Science, Bender and Friedman, TACL 2018 [[url]](https://www.aclweb.org/anthology/Q18-1041/)
 
 ### Model development 
+
+* Bias amplification: Men Also Like Shopping: Reducing Gender Bias Amplification using Corpus-level Constraints, Zhao et al., EMNLP 2017 [[url]](https://www.aclweb.org/anthology/D17-1323/)
+* Accuracy vs. fairness:  see chapter in "The Ethical Algorithm: The Science of Socially Aware Algorithm Design" by Roth and Kearns
+* Example: Algorithmic Bias? An Empirical Study of Apparent Gender-Based Discrimination in the Display of STEM Career Ads. Lambrecht and Tucker, Management Science 65(7):2966-2981, 2019 [[url]](https://pubsonline.informs.org/doi/10.1287/mnsc.2018.3093)
+
+*Documentation*
+
+* Model Cards for Model Reporting, Mitchell et al. 2018 [[url]](https://arxiv.org/abs/1810.03993), see also this [online Google example](https://modelcards.withgoogle.com/face-detection)
+
+
 
 
 ## COMPAS case study
