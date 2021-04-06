@@ -1,13 +1,38 @@
 
 # Fairness
 
-## Books 
+## Introduction
+### Overviews
+* Algorithmic Fairness: Choices, Assumptions, and Definitions, Mitchell et al. ,  Annual Review of Statistics and Its Application 2021 [[url]](https://www.annualreviews.org/doi/abs/10.1146/annurev-statistics-042720-125902?journalCode=statistics)
+* Online book: Fairness and machine learning, Limitations and Opportunities, Barocas, Hardt and Narayanan https://fairmlbook.org/
 
-* Online book: Fairness and machine learning, Limitations and Opportunities, Solon Barocas, Moritz Hardt, Arvind Narayanan https://fairmlbook.org/
+### Types of harms
+* Talk by Kate Crawford "The trouble with bias" 2017 [[Youtube]](https://www.youtube.com/watch?v=fMym_BKWQzk)
 
-## Overviews
-* Algorithmic Fairness: Choices, Assumptions, and Definitions https://www.annualreviews.org/doi/abs/10.1146/annurev-statistics-042720-125902?journalCode=statistics
-* A Survey on Bias and Fairness in Machine Learning https://arxiv.org/pdf/1908.09635.pdf
+### Data
+
+**Bias**
+
+* Statistical bias vs. societal bias, see Algorithmic Fairness: Choices, Assumptions, and Definitions, Mitchell et al.,  Annual Review of Statistics and Its Application 2021 [[url]](https://www.annualreviews.org/doi/abs/10.1146/annurev-statistics-042720-125902?journalCode=statistics)
+* Datasets from “Patterns, Predictions, and Actions“ by Hardt and Recht, 2021 [[url]](https://mlstory.org/data.html)
+* Selection bias: No Classification without Representation: Assessing Geodiversity Issues in Open Data Sets for the Developing World, Shankar et al, NIPS 2017 workshop: Machine Learning for the Developing World [[url]](https://research.google/pubs/pub46553/)
+* Annotator bias: The Risk of Racial Bias in Hate Speech Detection, Sap et al., ACL 2019 [[url]](https://www.aclweb.org/anthology/P19-1163/)
+* Problems with labels: Dissecting racial bias in an algorithm used to manage the health of populations, Obermeyer et al., Science 2019 [[url]](https://science.sciencemag.org/content/366/6464/447)
+
+**Ethics**
+
+*Data collection*
+
+* "The Internet Is Enabling a New Kind of Poorly Paid Hell", The Atlantic Jan 23, 2018 [[url]](https://www.theatlantic.com/business/archive/2018/01/amazon-mechanical-turk/551192/)
+* "The Trauma Floor: The secret lives of Facebook moderators in America", The Verge Feb 25, 2019 [[url]](https://www.theverge.com/2019/2/25/18229714/cognizant-facebook-content-moderator-interviews-trauma-working-conditions-arizona)
+
+*Documentation*
+
+* Datasheets for Datasets, Gebru et al. 2018 [[url]](https://arxiv.org/pdf/1803.09010.pdf)
+* Data Statements for Natural Language Processing: Toward Mitigating System Bias and Enabling Better Science, Bender and Friedman, TACL 2018 [[url]](https://www.aclweb.org/anthology/Q18-1041/)
+
+### Model development 
+
 
 ## COMPAS case study
 
@@ -44,7 +69,7 @@
 * Assessing Social and Intersectional Biases in Contextualized Word Representations, Tan and Celis, NeurIPS 2019. https://papers.nips.cc/paper/9479-assessing-social-and-intersectional-biases-in-contextualized-word-representations.pdf
 
 ### Other
-* The Risk of Racial Bias in Hate Speech Detection, Sap et al., ACL 2019 https://www.aclweb.org/anthology/P19-1163/
+
 * Google response gender bias in Google Translate https://www.blog.google/products/translate/reducing-gender-bias-google-translate/
 * Co-reference resolution: Gender Bias in Coreference Resolution, Rudinger et al. NAACL 2018 https://www.aclweb.org/anthology/N18-2002/  and Gender Bias in Coreference Resolution: Evaluation and Debiasing Methods Zhao et al. NAACL 2018 https://www.aclweb.org/anthology/N18-2003/ 
 * Language (Technology) is Power: A Critical Survey of "Bias" in NLP, Blodgett et al. ACL 2020 https://www.aclweb.org/anthology/2020.acl-main.485.pdf 
