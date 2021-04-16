@@ -41,13 +41,70 @@
 
 * Model Cards for Model Reporting, Mitchell et al. 2018 [[url]](https://arxiv.org/abs/1810.03993), see also this [online Google example](https://modelcards.withgoogle.com/face-detection)
 
+## Measuring Fairness
 
+### Fairness in classification: Groups
+**Historical context**
 
+* 50 Years of Test (Un)fairness: Lessons for Machine Learning,  Hutchinson and Mitchell, FAT<sup>∗</sup> 2019 [[url]](https://dl.acm.org/doi/10.1145/3287560.3287600)
+* Chapter 5 (esp part 1) of fairmlbook "Testing Discrimination in Practice" [[url]](https://fairmlbook.org/testing.html)
 
-## COMPAS case study
+**Legal context**
+
+* Bias Preservation in Machine Learning: The Legality of Fairness Metrics Under EU Non-Discrimination Law, Wachter et al., West Virginia Law Review, Forthcoming [[url]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3792772)
+
+**Impossibilities**
+
+* Fair prediction with disparate impact: A study of bias in recidivism prediction instruments, Chouldechova, Big Data, Special issue on Social and Technical Trade-Offs, 2017 [[url]](https://arxiv.org/abs/1703.00056)
+* Inherent Trade-Offs in the Fair Determination of Risk Scores, Kleinberg et al., Innovations in Theoretical Computer Science (ITCS), 2017 [[url]](https://drops.dagstuhl.de/opus/volltexte/2017/8156/pdf/LIPIcs-ITCS-2017-43.pdf)
+* The (Im)possibility of Fairness: Different Value Systems Require Different Mechanisms For Fair Decision Making, Friedler et al., Communications of the ACM, 2021 [[url]](https://cacm.acm.org/magazines/2021/4/251365-the-impossibility-of-fairness/fulltext)
+
+**COMPAS case study**
 
 * ProPublica https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing 
 * https://allendowney.github.io/RecidivismCaseStudy/
+
+**Demo's**
+
+* https://research.google.com/bigpicture/attacking-discrimination-in-ml
+
+### Fairness in classification: Individuals
+
+* Fairness through awareness, Dwrok et al., ITCS ’12 [[url]](https://dl.acm.org/doi/10.1145/2090236.2090255)
+
+### Fairness in representations
+
+* Evaluating Gender Bias in Machine Translation, Stanovsky et al., 2019  [[url]](https://www.aclweb.org/anthology/P19-1164/)
+* Semantics derived automatically from language corpora contain human-like biases, Caliskan et al. Science 2017 [[url](https://science.sciencemag.org/content/356/6334/183) 
+* Google response gender bias in Google Translate https://www.blog.google/products/translate/reducing-gender-bias-google-translate/
+* Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings, Bolukbasi et al. NeurIPS 2016 [[url]](https://papers.nips.cc/paper/6228-man-is-to-computer-programmer-as-woman-is-to-homemaker-debiasing-word-embeddings)
+* ConceptNet Numberbatch 17.04: better, less-stereotyped word vectors, Robyn Speer, 2017 [[url]](http://blog.conceptnet.io/posts/2017/conceptnet-numberbatch-17-04-better-less-stereotyped-word-vectors/)
+
+
+## Candidate papers for group presentations
+
+* 50 Years of Test (Un)fairness: Lessons for Machine Learning, Hutchinson and Mitchell, FAT* 2019 [[url]](https://dl.acm.org/doi/10.1145/3287560.3287600)
+
+* Fairness Is Not Static: Deeper Understanding of Long Term Fairness via Simulation Studies, D'Amour et al., FAT* 2020 [[url]](https://dl.acm.org/doi/abs/10.1145/3351095.3372878)
+
+* Beyond Distributive Fairness in Algorithmic Decision Making: Feature Selection for Procedurally Fair Learning, Grgić-Hlača et al., AAAI 2018 [[url]](https://ojs.aaai.org/index.php/AAAI/article/view/11296)
+
+* Men Also Like Shopping: Reducing Gender Bias Amplification using Corpus-level Constraints, Zhao et al., EMNLP 2017 [[url]](https://www.aclweb.org/anthology/D17-1323/)
+
+* Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings, Bolukbasi et al., NIPS 2016 [[url]](https://dl.acm.org/doi/10.5555/3157382.3157584) 
+
+* Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification, Buolamwini and Gebru, FAT 2018 [[url]](http://proceedings.mlr.press/v81/buolamwini18a.html)
+
+* Image Representations Learned With Unsupervised Pre-Training Contain Human-like Biases, Steed and Caliskan, FAccT 2021 [[url](https://dl.acm.org/doi/10.1145/3442188.3445932)
+
+* Fairness-Aware Ranking in Search & Recommendation Systems with Application to LinkedIn Talent Search, Geyik et al., KDD 2019 [[url]](https://dl.acm.org/doi/10.1145/3292500.3330691)
+
+* Factors Influencing Perceived Fairness in Algorithmic Decision-Making: Algorithm Outcomes, Development Procedures, and Individual Differences, Wang et al., CHI 2020 [[url]](https://dl.acm.org/doi/10.1145/3313831.3376813)
+
+* ‘It’s Reducing a Human Being to a Percentage’; Perceptions of Justice in Algorithmic Decisions, Binns et al., CHI 2018, [[url]](https://doi.org/10.1145/3173574.3173951) 
+
+* Mitigating Biases in Multimodal Personality Assessment, Shen Yan et al.,  ICMI 2020 [[url]](https://doi.org/10.1145/3382507.3418889)
+
 
 ## Demo's /tools
 * https://github.com/google/ml-fairness-gym
@@ -70,8 +127,7 @@
 ## NLP papers ##
 
 ### Embeddings
-* Semantics derived automatically from language corpora contain human-like biases, Caliskan et al. Science 2017 https://science.sciencemag.org/content/356/6334/183
-* Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings, Bolukbasi et al. NeurIPS 2016 https://papers.nips.cc/paper/6228-man-is-to-computer-programmer-as-woman-is-to-homemaker-debiasing-word-embeddings
+
 * Word Embeddings Quantify 100 Years of Gender and Ethnic Stereotypes, Garg et al. PNAS 2017 https://arxiv.org/pdf/1711.08412.pdf
 * Learning Gender-Neutral Word Embeddings, Zhao et al. EMNLP 2018 https://arxiv.org/pdf/1809.01496
 * Lipstick on a Pig: Debiasing Methods Cover up Systematic Gender Biases in Word Embeddings But do not Remove Them, Gonen and Goldberg. NAACL-HLT 2019 https://arxiv.org/pdf/1809.01496
@@ -80,7 +136,7 @@
 
 ### Other
 
-* Google response gender bias in Google Translate https://www.blog.google/products/translate/reducing-gender-bias-google-translate/
+
 * Co-reference resolution: Gender Bias in Coreference Resolution, Rudinger et al. NAACL 2018 https://www.aclweb.org/anthology/N18-2002/  and Gender Bias in Coreference Resolution: Evaluation and Debiasing Methods Zhao et al. NAACL 2018 https://www.aclweb.org/anthology/N18-2003/ 
 * Language (Technology) is Power: A Critical Survey of "Bias" in NLP, Blodgett et al. ACL 2020 https://www.aclweb.org/anthology/2020.acl-main.485.pdf 
 * What’s in a Name? Reducing Bias in Bios without Access to Protected Attributes, Romanov et al. NAACL-HLT 2019, https://arxiv.org/pdf/1904.05233.pdf
