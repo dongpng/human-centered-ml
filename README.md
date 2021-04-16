@@ -89,6 +89,8 @@
 
 * Beyond Distributive Fairness in Algorithmic Decision Making: Feature Selection for Procedurally Fair Learning, Grgić-Hlača et al., AAAI 2018 [[url]](https://ojs.aaai.org/index.php/AAAI/article/view/11296)
 
+* Fairness Constraints: Mechanisms for Fair Classification, Zafar et al. 2017, AISTATS 2017 [[url]](http://proceedings.mlr.press/v54/zafar17a.html)
+
 * Men Also Like Shopping: Reducing Gender Bias Amplification using Corpus-level Constraints, Zhao et al., EMNLP 2017 [[url]](https://www.aclweb.org/anthology/D17-1323/)
 
 * Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings, Bolukbasi et al., NIPS 2016 [[url]](https://dl.acm.org/doi/10.5555/3157382.3157584) 
