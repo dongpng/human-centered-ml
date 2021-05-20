@@ -106,7 +106,7 @@
 
 * Fairness and Abstraction in Sociotechnical Systems, Selbst et al., FAT* 2019 [[url]](https://doi.org/10.1145/3287560.3287598)
 * Human Perceptions of Fairnessin Algorithmic Decision Making: A Case Study of Criminal Risk Prediction, Grgic-Hlaca et al.,WWW 2018 [[url]](https://doi.org/10.1145/3178876.3186138)
-* Algorithm Aversion: People Erroneously Avoid Algorithms after Seeing Them Err, Dietvorst et al., Journal ofExperimental Psychology 2015 [[url]](https://doi.org/10.1037/xge0000033)
+* Algorithm Aversion: People Erroneously Avoid Algorithms after Seeing Them Err, Dietvorst et al., Journal of Experimental Psychology 2015 [[url]](https://doi.org/10.1037/xge0000033)
 * A systematic review of algorithm aversion in augmented decision making, Burton et al., Journal of BehavioralDecision Making 2020 [[url]](https://doi.org/10.1002/bdm.2155)
 
 
