@@ -81,6 +81,35 @@
 * ConceptNet Numberbatch 17.04: better, less-stereotyped word vectors, Robyn Speer, 2017 [[url]](http://blog.conceptnet.io/posts/2017/conceptnet-numberbatch-17-04-better-less-stereotyped-word-vectors/)
 
 
+## Interventions
+
+### Pre-processing
+
+* Gender Bias in Coreference Resolution: Evaluation and Debiasing Methods, Zhao et al. NAACL 2018 [[url]](https://www.aclweb.org/anthology/N18-2003.pdf)
+* Data preprocessing techniques forclassification without discrimination,Kamiran and Calders, Knowl Inf Syst 2012 [[url]](https://link.springer.com/article/10.1007/s10115-011-0463-8)
+
+
+### Post-processing
+
+* Equality of Opportunity in SupervisedLearning, Hardt et al., NIPS 2016 [[url]](https://arxiv.org/abs/1610.02413)
+* Fairness-Aware Ranking in Search & Recommendation Systems with Application to LinkedIn Talent Search,Geyik et al., KDD 2019 [[url]](https://dl.acm.org/doi/10.1145/3292500.3330691)
+* Man is to computer programmer as woman is to homemaker? Debiasing word embeddings, Bolukbasi et al.NIPS 2016 [[url]](https://papers.nips.cc/paper/2016/file/a486cd07e4ac3d270571622f4f316ec5-Paper.pdf)
+
+
+### In-processing
+
+* Fairness-Aware Classifier with Prejudice Remover Regularizer, Kamishima et al. ECML PKDD 2012 [[url]](https://link.springer.com/chapter/10.1007/978-3-642-33486-3_3)
+* Mitigating Unwanted Biases with Adversarial Learning, Zhang et al. AIES ’18 [[url]](https://dl.acm.org/doi/10.1145/3278721.3278779)
+
+
+## Critiques/limitations/broader perspective
+
+* Fairness and Abstraction in Sociotechnical Systems, Selbst et al., FAT* 2019 [[url]](https://doi.org/10.1145/3287560.3287598)
+* Human Perceptions of Fairnessin Algorithmic Decision Making: A Case Study of Criminal Risk Prediction, Grgic-Hlaca et al.,WWW 2018 [[url]](https://doi.org/10.1145/3178876.3186138)
+* Algorithm Aversion: People Erroneously Avoid Algorithms after Seeing Them Err, Dietvorst et al., Journal ofExperimental Psychology 2015 [[url]](https://doi.org/10.1037/xge0000033)
+* A systematic review of algorithm aversion in augmented decision making, Burton et al., Journal of BehavioralDecision Making 2020 [[url]](https://doi.org/10.1002/bdm.2155)
+
+
 ## Candidate papers for group presentations
 
 * 50 Years of Test (Un)fairness: Lessons for Machine Learning, Hutchinson and Mitchell, FAT* 2019 [[url]](https://dl.acm.org/doi/10.1145/3287560.3287600)
@@ -118,12 +147,8 @@
 ## Critiques/limitations on current fairness work 
 * Non-portability of Algorithmic Fairness in India https://arxiv.org/pdf/2012.03659.pdf
 * Where fairness fails: data, algorithms, and the limits of antidiscrimination discourse https://www.tandfonline.com/doi/abs/10.1080/1369118X.2019.1573912?journalCode=rics20
-* Fairness and Abstraction in Sociotechnical Systems https://doi.org/10.1145/3287560.3287598
 * Improving Fairness in Machine Learning Systems: What Do Industry Practitioners Need? https://dl.acm.org/doi/abs/10.1145/3290605.3300830
 
-## Todo: papers bridging fairness & explainability
-
-## Todo: critiques on datasets (imagenet, ....) 
 
 
 ## NLP papers ##
